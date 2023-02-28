@@ -85,4 +85,4 @@ UIS.InputEnded:Connect(function(Input)
 		UnLockCursor()
 	end
 end)
-game.StarterGui:SetCore("SendNotification", {Title = "Working.", Text = "Success, Script Loaded.", Duration = 4,})
+game.StarterGui:SetCore("SendNotification", {Title = "enzo#9580", Text = "Success, Script Loaded. To use lock onto someone hold the RMB over their body.", Duration = 4,})
